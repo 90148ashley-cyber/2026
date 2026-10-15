@@ -1,6 +1,13 @@
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background: #f5f7fa;
+}
+
+body {
+  font-family: "Noto Sans TC", sans-serif;
 }
 
 canvas {
